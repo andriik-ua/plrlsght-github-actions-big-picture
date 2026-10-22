@@ -15,4 +15,4 @@ jobs:
         with:
           node-version: '24.x'
       - run: npm install
-      - run: nmpm run build
+      - run: npm run build
